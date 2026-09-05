@@ -6,6 +6,7 @@ Security Engineer focused on the intersection of offensive research and defensiv
 
 With a background spanning SOC analysis, malware reverse engineering, and purple team operations, I bridge the gap between detection engineering and adversary emulation. I automate what's repetitive, hunt what evades detection, and dissect what evades everything else.
 
+
 profile = {
     "role"      : "Security Analyst | Threat Hunter | Malware Analyst",
     "focus"     : ["Malware Analysis", "Threat Hunting", "Detection Engineering"],
@@ -13,6 +14,7 @@ profile = {
     "languages" : ["Python", "C/C++", "Assembly (x86/x64)", "PowerShell", "Go", "C#"],
     "mindset"   : "Think like the adversary. Detect like the defender."
 }
+
 
 $ ls -la ./skills
 🔴 Offensive & Reverse Engineering
