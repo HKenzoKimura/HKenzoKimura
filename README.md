@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/henriquekenzo" target="_blank">
+  <a href="https://www.linkedin.com/in/kenzo-kimura-98abb8222" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:henriquekkimura@gmail.com">
